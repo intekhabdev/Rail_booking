@@ -41,16 +41,16 @@ This project allows users to search trains, check seat availability, book ticket
 ## 📸 Screenshots
 
 ### 1. Available Trains
-![Available Trains](screenshots/screen01.jpg)
+![Available Trains](screenshot/screen01.jpg)
 
 ### 2. Book Ticket
 ![Book Ticket](screenshots/book-ticket.jpg)
 
 ### 3. My Bookings
-![My Bookings](screenshots/my-bookings.jpg)
+![My Bookings](screenshot/screen01.jpg)
 
 ### 4. Generated Ticket with QR Code
-![Generated Ticket](screenshots/ticket.jpg)
+![Generated Ticket](screenshots/screen62.jpg)
 
 ### 5. Admin Bookings
 ![Admin Bookings](screenshots/admin-bookings.jpg)
