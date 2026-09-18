@@ -41,7 +41,7 @@ This project allows users to search trains, check seat availability, book ticket
 ## 📸 Screenshots
 
 ### 1. Available Trains
-![Available Trains](screenshots/available-trains.jpg)
+![Available Trains](screenshots/screen01.jpg)
 
 ### 2. Book Ticket
 ![Book Ticket](screenshots/book-ticket.jpg)
