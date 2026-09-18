@@ -184,10 +184,6 @@ This project helped me gain practical experience in:
 ## 👨‍💻 Author
 
 **Md Intekhab**
+- GitHub: http://github.com/intekhabdev
+- LinkedIn: http://linkedin.com/in/hbintekhab
 
-- GitHub: `<your-github-profile>`
-- LinkedIn: `<your-linkedin-profile>`
-
-## ⭐ Support
-
-If you find this project useful, consider giving it a ⭐ on GitHub.
