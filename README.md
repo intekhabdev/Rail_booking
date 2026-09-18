@@ -41,25 +41,23 @@ This project allows users to search trains, check seat availability, book ticket
 ## 📸 Screenshots
 
 ### 1. Available Trains
-![Available Trains](screenshot/screen01.jpg)
+![Available Trains](screenshot/s.jpg)
 
 ### 2. Book Ticket
-![Book Ticket](screenshots/book-ticket.jpg)
+![Book Ticket](screenshots/screen02.jpg)
 
-### 3. My Bookings
-![My Bookings](screenshot/screen01.jpg)
+### 3. Available Train
+![My Bookings](screenshot/screen03.jpg)
 
 ### 4. Generated Ticket with QR Code
 ![Generated Ticket](screenshots/screen62.jpg)
 
-### 5. Admin Bookings
-![Admin Bookings](screenshots/admin-bookings.jpg)
+### 5. Admin Dashboard
+![Admin Bookings](screenshots/screen04.jpg)
 
-### 6. Admin Dashboard
-![Admin Dashboard](screenshots/admin-dashboard.jpg)
+### 6. Admin Ticket Control
+![Admin Dashboard](screenshots/screen05.jpg)
 
-### 7. Job Opportunity
-![Job Opportunity](screenshots/job-post.jpg)
 
 ## 🔄 Booking Flow
 
